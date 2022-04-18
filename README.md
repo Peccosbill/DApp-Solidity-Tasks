@@ -7,7 +7,11 @@ La aplicación descentralizada es una aplicación de tareas simple para practica
 Las herramientas que usé:
 
 🍬 Truffle Framework
+
 🍰 Ganache
+
 🍧 Solidity
+
 🍺 Nodejs
+
 🎨 Bootstrap
